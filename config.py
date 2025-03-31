@@ -1,2 +1,2 @@
-TOKEN = "MTM1MTYyOTIyNjAzMzI4NzI1MA.G2ys_L.LG1ZY_AEKDEq3E-LQIphjWO_jWDq0LngWpz99A"
+TOKEN = (burası özeldir, herkeste farklı bir token olur)
 DATABASE = "my.db"
